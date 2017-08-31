@@ -21,20 +21,20 @@ This solicitation is issued pursuant to the terms and conditions of the GSA Mult
 
 ## Contents
 
-- [1.0 General](URL)
-- [2.0 Administration](URL)
-- [3.0 Background](URL)
-- [4.0 Period of Performance](URL)
-- [5.0 Type of Contract](URL)
-- [6.0 Pricing Structure](URL)
-- [7.0 Special Instructions](URL)
-- [8.0 Quotation Instructions](URL)
-- [9.0 Performance Work Statement](URL)
-- [10.0 Basis of Award and Evaluation Criteria](URL)
-- [11.0 Invoicing](URL)
-- [12.0 Daily Activities and Kickoff](URL)
-- [13.0 Transparency Policy](URL)
-- [14.0 Contract Provisions, Clauses, and Policies Incorporated](URL)
+- [1.0 General](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#10-general)
+- [2.0 Administration](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#20-administration)
+- [3.0 Background](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#30-background)
+- [4.0 Period of Performance](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#40-period-of-performance)
+- [5.0 Type of Contract](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#50-type-of-contract)
+- [6.0 Pricing Structure](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#60-pricing-structure)
+- [7.0 Special Instructions](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#70-special-instructions)
+- [8.0 Quotation Instructions](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#80-quotation-instructions)
+- [9.0 Performance Work Statement](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#90-performance-work-statement)
+- [10.0 Basis of Award and Evaluation Criteria](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#100-basis-of-award-and-evaluation-criteria)
+- [11.0 Invoicing](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#110-invoicing)
+- [12.0 Daily Activities and Kickoff](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#120-daily-activities-and-kickoff)
+- [13.0 Transparency Policy](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#130-transparency-policy)
+- [14.0 Contract Provisions, Clauses, and Policies Incorporated](https://github.com/18F/tts-buy-code-review/blob/master/solicitation_documents/RFQ.md#140-contract-provisions-clauses-and-policies-incorporated)
 
 ## 1.0 General
 The Quoters shall submit a quotation in accordance with the instructions and terms and conditions of this RFQ and the terms and conditions of its GSA Schedule contract. Please ensure that a response includes all requested information and that your response clearly demonstrates the company’s capability to perform the objectives and requirements specified in the Performance Work Statement (“PWS”). The Government intends to award based on initial quotations. Therefore, it is critical that you are fully responsive to the solicitation and submit your best quotation initially.
@@ -179,19 +179,25 @@ The contractor shall support the Government in its compliance with Section 508 t
 Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d) requires that when Federal agencies develop, procure, maintain, or use electronic information technology, Federal employees with disabilities have access to and use of information and data that is comparable to the access and use by Federal employees who do not have disabilities, unless an undue burden would be imposed on the agency. Section 508 also requires that individuals with disabilities, who are members of the public seeking information or services from a Federal agency, have access to and use of information and data that is comparable to that provided to the public who are not individuals with disabilities, unless an undue burden would be imposed on the agency.
 
 ### 14.2 Contract Clauses Incorporated by Reference
-FAR 52.252-2 - Clauses Incorporated by Reference (Feb 1998)
+*FAR 52.252-2 - Clauses Incorporated by Reference (Feb 1998)*
+
 This contract incorporates one or more clauses by reference, with the same force and effect as if they were given in full text. Upon request, the Contracting Officer will make their full text available. Also, the full text of a clause may be accessed electronically at this/these address(es):
 
 Federal Acquisition Regulation: https://www.acquisition.gov/far/current/html/FARTOCP52.html 
+
 GSA Acquisition Manual: https://www.acquisition.gov/?q=browsegsam 
 
 FAR 52.212-4- Contract Terms and Conditions - Commercial items (JAN 2017)
+
 GSAR 552.212-4  - Contract Terms and Conditions—Commercial Items Nov 2009 
+
 Alternate II (July 2015)(DEVIATION FAR 52.212-4)
+
 (End of provision)
 
-14.3 Provisions and Clauses Incorporated in Full Text
-52.203-18 – Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements--Representation (Jan 2017)
+### 14.3 Provisions and Clauses Incorporated in Full Text
+*52.203-18 – Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements--Representation (Jan 2017)*
+
 (a) Definition. As used in this provision--
 “Internal confidentiality agreement or statement”, “subcontract”, and “subcontractor”, are defined in the clause at 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements.
 
