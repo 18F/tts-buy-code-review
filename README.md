@@ -1,8 +1,8 @@
 # C2 Code Review
 
-Please submit any questions as GitHub issues in this repository by *September 06, 2017 at 4:00pm EST*. The TTS Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+Please submit any questions as GitHub issues in this repository by *November 08, 2017 4:00pm EST*. The TTS Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
-**Proposals are due by September 12, 2017 at 4:00pm EST.**
+**Proposals are due by November 14, 2017 at 4:00 PM EST.**
 
 ## Background
 
