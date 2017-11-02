@@ -5,9 +5,9 @@
 
 **Subject:** Request for Quotation (RFQ)
 
-**Date:** August 31, 2017
+**Date:** November 2, 2017
 
-**Reply By:** September 12, 2017 at 4:00 PM EST
+**Reply By:** November 14, 2017 at 4:00 PM EST
 
 **Set Aside:** Small Business
 
@@ -39,7 +39,7 @@ This solicitation is issued pursuant to the terms and conditions of the GSA Mult
 ## 1.0 General
 The Quoters shall submit a quotation in accordance with the instructions and terms and conditions of this RFQ and the terms and conditions of its GSA Schedule contract. Please ensure that a response includes all requested information and that your response clearly demonstrates the company’s capability to perform the objectives and requirements specified in the Performance Work Statement (“PWS”). The Government intends to award based on initial quotations. Therefore, it is critical that you are fully responsive to the solicitation and submit your best quotation initially.
 
-Questions or comments regarding this RFQ shall be submitted [as an Issue](https://github.com/18F/tts-buy-code-review/issues) using the [Issue Template](https://github.com/18F/tts-buy-code-review/blob/master/ISSUE_TEMPLATE.md) in the [solicitation document’s repository](https://github.com/18F/tts-buy-code-review) no later than September 06, 2017 4:00pm EST in order to allow the Government sufficient time to respond. All questions, comments, and answers will be publicly available. Questions or comments received after the required deadline will not be answered. Any changes to this RFQ or attachments will be posted as an amendment on GitHub.
+Questions or comments regarding this RFQ shall be submitted [as an Issue](https://github.com/18F/tts-buy-code-review/issues) using the [Issue Template](https://github.com/18F/tts-buy-code-review/blob/master/ISSUE_TEMPLATE.md) in the [solicitation document’s repository](https://github.com/18F/tts-buy-code-review) no later than November 08, 2017 4:00pm EST in order to allow the Government sufficient time to respond. All questions, comments, and answers will be publicly available. Questions or comments received after the required deadline will not be answered. Any changes to this RFQ or attachments will be posted as an amendment on GitHub.
 
 Quotation must be received electronically via the [RFQ Technical Response Form](https://goo.gl/forms/LOk2nmwsfNToGvuJ3) and the [RFQ Pricing Response Form](https://goo.gl/forms/8GiHlaztZf64SFzd2), by the official closing date and time identified above. A late quotation will not be considered for award.
 
